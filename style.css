@@ -21,10 +21,6 @@ body * {
   line-height: 160%;
 }
 
-main * {
-  /* border: 1px solid red; */
-}
-
 main {
   margin: 32px auto;
   max-width: 580px;
